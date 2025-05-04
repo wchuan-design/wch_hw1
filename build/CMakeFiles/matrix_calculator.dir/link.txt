@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\matrix_calculator.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\matrix_calculator.dir/objects.a @CMakeFiles\matrix_calculator.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\matrix_calculator.dir/objects.a -Wl,--no-whole-archive -o matrix_calculator.exe -Wl,--out-implib,libmatrix_calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matrix_calculator.dir\linkLibs.rsp

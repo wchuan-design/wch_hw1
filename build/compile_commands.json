@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/X-Lab/wch_hw1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/matrix_calculator.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\matrix_calculator.dir\\src\\main.c.obj -c F:\\X-Lab\\wch_hw1\\src\\main.c",
+  "file": "F:/X-Lab/wch_hw1/src/main.c",
+  "output": "CMakeFiles/matrix_calculator.dir/src/main.c.obj"
+},
+{
+  "directory": "F:/X-Lab/wch_hw1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/matrix_calculator.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\matrix_calculator.dir\\src\\algebra.c.obj -c F:\\X-Lab\\wch_hw1\\src\\algebra.c",
+  "file": "F:/X-Lab/wch_hw1/src/algebra.c",
+  "output": "CMakeFiles/matrix_calculator.dir/src/algebra.c.obj"
+}
+]
