@@ -13,9 +13,6 @@
 稍微麻烦点，但是学长给出的thinking.md里面的思路非常清晰，按照实现即可，维护对角线上不为零的数的个数，并且每次将接下来的消干净
 
 ## 运算结果展示
-![](https://wch-hw1-1357744354.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250504185637.png)
-这是原来的README里面给出的样例
-
 ![](https://wch-hw1-1357744354.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250504202322.png)
 ![](https://wch-hw1-1357744354.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250504202332.png)
 这是我自己造的两个案例，我们可以发现所有函数得到了正确的结果（虽然样例不一定很强就是了）
